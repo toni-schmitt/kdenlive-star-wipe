@@ -1,0 +1,7 @@
+* text=auto eol=lf
+
+*.pgm binary
+*.gif binary
+*.png binary
+*.sh text eol=lf
+*.py text eol=lf

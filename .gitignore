@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Claude Code local settings
+.claude/
+
+# Editors / OS
+*.swp
+*~
+.DS_Store
